@@ -9,5 +9,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+        "object-curly-spacing": "off",
+        "max-len":"off"
     }
 }
